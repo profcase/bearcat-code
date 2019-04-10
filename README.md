@@ -33,7 +33,7 @@
 
 ## Butterfly
 
-![Butterfly](https://raw.githubusercontent.com/profcase/bearcat-code/master/Butterfly.png "Butterfly png image")
+![Butterfly](https://github.com/profcase/bearcat-code/blob/master/butterfly.png?raw=true "Butterfly png image")
 
 ![Butterfly](https://raw.githubusercontent.com/profcase/bearcat-code/master/Butterfly2.png "Butterfly png image ")
 
