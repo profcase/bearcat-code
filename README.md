@@ -25,6 +25,10 @@
 1. Notepad++
 2. Paint
 
+## QR Code
+
+![QR Code](https://github.com/profcase/bearcat-code/blob/master/ihr_qr_code_ohne_logo.jpg?raw=true "QR Code")
+
 ## Cat
 
 ![Cat](https://github.com/profcase/bearcat-code/blob/master/cat.bmp?raw=true "Cat Bitmap image 1")
