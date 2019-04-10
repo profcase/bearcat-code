@@ -27,13 +27,13 @@
 
 ## Cat
 
-![Cat](https://github.com/profcase/bearcat-code/blob/master/cat.bmp?raw=true "Cat Bitmap image")
+![Cat](https://github.com/profcase/bearcat-code/blob/master/cat.bmp?raw=true "Cat Bitmap image 1")
 
-![Cat](https://github.com/profcase/bearcat-code/blob/master/cat2.bmp?raw=true "Cat Bitmap image")
+![Cat](https://github.com/profcase/bearcat-code/blob/master/cat2.bmp?raw=true "Cat Bitmap image 2")
 
 ## Butterfly
 
-![Butterfly](https://github.com/profcase/bearcat-code/blob/master/butterfly.png?raw=true "Butterfly png image")
+![Butterfly](https://github.com/profcase/bearcat-code/blob/master/butterfly.png?raw=true "Butterfly png image 1")
 
-![Butterfly](https://github.com/profcase/bearcat-code/blob/master/butterfly2.png?raw=true "Butterfly png image ")
+![Butterfly](https://github.com/profcase/bearcat-code/blob/master/butterfly2.png?raw=true "Butterfly png image 2")
 
